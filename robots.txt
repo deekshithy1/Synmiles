@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://synmiles.com/sitemap.xml
